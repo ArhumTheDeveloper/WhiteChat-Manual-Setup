@@ -14,7 +14,7 @@ Use Shift + Right Click To Open A Menu and then Click on "Open Command Prompt He
 # 3. Run Nodemon
 Now Type in "nodemon server.js" If you get the error "Scripts aren't allowed to Run on this System" Open a Admin Command Prompt and type in the following command
 "cd C:/Users/YOUR MIRCOSOFT ACCOUNT NAME/Downloads/Github-Whitechat Stuff" and then Type in "nodemon server.js"
-# 4. Open Localhost:3030
+# 4. Open Localhost:5000
 Open Your Broswer e.g Chrome And type in the Address Bar "localhost:3030" and hit enter
 
 And thats how to run WhiteChat Manually
